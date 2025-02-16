@@ -28,6 +28,7 @@ Welcome to my personal portfolio! This project showcases my expertise as a **Ful
 ## 📷 Screenshots
   ![Home Screenshot](1.png)
    ![Projects Screenshot](2.png)
+![stack Screenshot](3.png)
 ## 📢 Contact
 - **LinkedIn:** https://www.linkedin.com/in/sideeg-mohammed-6ba443185/
 - **Email:** sideegmohammednnor@gmail.com
